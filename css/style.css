@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: darkcyan;
+    max-width: 100%;
+    max-height: fit-content;
+}
+
+.about {
+    min-height: 600px;
+}
+
+#portfolio img {
+    height: 400px;
+    overflow: hidden;
+}
